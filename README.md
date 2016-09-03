@@ -242,7 +242,7 @@ if __name__ == "__main__":
 此时，会弹出**Check_code.jpg**
 同时提示输入图中验证码。
 接下来输入学号密码完成登录。
-![Alt text](./1472904598634.png)
+![Alt text](https://github.com/JustMeDoIt/SYSU_Courses/blob/master/Image/QQ%E6%88%AA%E5%9B%BE20160903205756.png)
 
 ### 3.3 选课
 
@@ -251,14 +251,14 @@ if __name__ == "__main__":
 - 输入课程名称
 - 输入教师名称
 - 选择时间段(若有多个时间段的课程)
-![Alt text](./1472905244335.png)
+![Alt text](https://github.com/JustMeDoIt/SYSU_Courses/blob/master/Image/QQ%E6%88%AA%E5%9B%BE20160903204617.png)
 
 ### 3.4 等待选课结果
 
 - 若是有空位则直接选上
 - 若是有时间冲突等原因则选课失败
 - 若是课程人数已满，则挂机等待有人退课，立即补上空缺。
-![Alt text](./1472905579546.png)
+![Alt text](https://github.com/JustMeDoIt/SYSU_Courses/blob/master/Image/QQ%E6%88%AA%E5%9B%BE20160903204652.png)
 (已选哈哈！ )
 
 ### 4.作者有话说
