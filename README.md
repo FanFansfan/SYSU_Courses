@@ -29,7 +29,7 @@ import threading
 ##2 代码
 
 ```python
-	import random
+import random
 import os
 import re
 import time
@@ -261,7 +261,7 @@ if __name__ == "__main__":
 ![Alt text](https://github.com/JustMeDoIt/SYSU_Courses/blob/master/Image/QQ%E6%88%AA%E5%9B%BE20160903204652.png)
 (已选哈哈！ )
 
-### 4.作者有话说
+## 4.作者有话说
 
 本人小白，这个程序是我暑假在家学习python模拟登陆的一个习作，其实原理还是挺简单的。使用了多线程，支持多门课程同时监视。不过话说回来，这个抢课脚本挺鸡肋的。。。因为我们在选课前选课列表是空的，所以要等到开抢才显示出来，所以呢，等你输完各种信息别人早就选上了，哈哈莫吐槽哈！！！
 **但是，它还是有用处滴。。。譬如说，有些同学可能会因为各种原因（比如时间冲突等）退课，这时我们便可以立即选上，爽！！！**
